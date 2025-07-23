@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## Hi there 👋
-
 Welcome to my GitHub! I'm currently on a journey to become a **full-stack web and application developer**.
 
 ### 💻 Technologies I Work With:
